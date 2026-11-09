@@ -12,10 +12,11 @@ Computer Science Engineering student (9th semester) from Puebla, Mexico. I'm pas
 - 🔭 Fascinated by everything related to space exploration
 
 ## Tech stack
-**Languages:** Java (strongest), Python, C++
-**Web:** HTML, CSS [add JavaScript or others if you use them]
-**Databases:** SQL (fundamentals)
-**Tools:** Git, GitHub
+**Languages:** Java, Python, C++, JavaScript, TypeScript
+**Frontend:** Angular, HTML, CSS
+**Backend:** Django REST Framework
+**Databases:** MySQL / SQL
+**Tools:** Git, GitHub, Vercel
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
