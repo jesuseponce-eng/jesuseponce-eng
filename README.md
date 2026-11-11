@@ -43,5 +43,5 @@ I spent two summers working at a camp in the United States, first in food servic
 - 🇺🇸 English: Intermediate (B2), self-taught and improved through living and working in the U.S.
 
 ## Let's connect
-- 💼 LinkedIn: www.linkedin.com/in/jesus-eduardo-ponce-gutierrez-3b4644356
+- 💼 LinkedIn: www.linkedin.com/in/jesus-eduardo-ponce-gutierrez
 - 📧 Email: laaloponce3@gmail.com
