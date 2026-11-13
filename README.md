@@ -1,6 +1,6 @@
 # Hi, I'm Jesus 👋
 
-Computer Science Engineering student (9th semester) from Puebla, Mexico. I'm passionate about space technology and I'm focusing my career on **Artificial Intelligence**. 🚀🤖
+Computer Science Engineering student (8th semester) from Puebla, Mexico. I'm passionate about space technology and I'm focusing my career on **Artificial Intelligence**. 🚀🤖
 
 ## About me
 - 🎓 Final year of my Computer Science Engineering degree
@@ -25,6 +25,8 @@ Computer Science Engineering student (9th semester) from Puebla, Mexico. I'm pas
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## Projects
 - 🛰️ **CanSat Ground Station (in progress)**: Early web-prototype of the ground station for a CanSat nanosatellite project.
